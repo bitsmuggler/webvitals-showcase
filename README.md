@@ -6,6 +6,8 @@ This project is a minimal **Vanilla Vite** app that demonstrates the three key *
 * 🔀 **CLS (Cumulative Layout Shift)**
 * 🎯 **INP (Interaction to Next Paint)**
 
+You can find the app at [webvitals-showcase.vercel.app/](https://webvitals-showcase.vercel.app/).
+
 Each metric is visualized with real-world code examples to help developers understand and improve web performance.
 
 ## 🚀 Getting Started
