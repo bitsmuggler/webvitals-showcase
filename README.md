@@ -1,6 +1,6 @@
 # ⚡️ Web Vitals Showcase
 
-This project is a minimal **Vanilla Vite** app that demonstrates the three key **Core Web Vitals**:
+This project is a minimal **Vanilla Vite** app that demonstrates the three **Core Web Vitals**:
 
 * 🖼️ **LCP (Largest Contentful Paint)**
 * 🔀 **CLS (Cumulative Layout Shift)**
