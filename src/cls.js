@@ -1,7 +1,5 @@
 import './style.css';
 
-// https://picsum.photos/1200/1200
-
 document.querySelector('#app').innerHTML = `
  <h1>Cumulative Layout Shift (CLS) Example</h1>
 
