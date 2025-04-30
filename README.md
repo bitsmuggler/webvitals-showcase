@@ -23,3 +23,7 @@ To get started with the project, follow these steps:
    ```
 3. Open your browser and navigate to `http://localhost:5173` to view the app.
 4. Explore the examples for LCP, CLS, and INP to see how they work in practice.
+
+## Resources
+- [Web Vitals](https://web.dev/vitals/)
+- [Frontend Architecture Map](https://www.workingsoftware.dev/frontend-architecture-map-a-user-journey-driven-approach-to-avoid-hype-driven-development/)
