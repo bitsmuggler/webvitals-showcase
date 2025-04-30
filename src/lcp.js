@@ -1,5 +1,9 @@
 import './style.css';
 
+import { onLCP } from 'web-vitals';
+
+onLCP(console.log, {reportAllChanges: true});
+
 document.querySelector('#app').innerHTML = `
   <h1>Largest Contentful Paint (LCP) Example</h1>
 

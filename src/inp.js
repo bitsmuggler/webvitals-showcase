@@ -1,5 +1,9 @@
 import './style.css';
 
+import { onINP } from 'web-vitals';
+
+onINP(console.log, {reportAllChanges: true});
+
 document.querySelector('#app').innerHTML = `
   <h1>Interaction to Next Paint (INP) Showcase</h1>
 

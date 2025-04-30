@@ -1,5 +1,9 @@
 import './style.css';
 
+import { onCLS } from 'web-vitals';
+
+onCLS(console.log, {reportAllChanges: true});
+
 document.querySelector('#app').innerHTML = `
  <h1>Cumulative Layout Shift (CLS) Example</h1>
 
