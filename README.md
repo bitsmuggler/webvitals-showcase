@@ -1,4 +1,4 @@
-# ⚡️ Web Vitals Showcase (LCP, CLS, INP)
+# ⚡️ Web Vitals Showcase
 
 This project is a minimal **Vanilla Vite** app that demonstrates the three key **Core Web Vitals**:
 
