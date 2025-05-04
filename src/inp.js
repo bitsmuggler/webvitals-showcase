@@ -9,7 +9,6 @@ document.querySelector('#app').innerHTML = `
 
   <div class="button-group">
     <button id="good">✅ Good INP (Immediate Response)</button>
-    <button id="medium">🟡 Medium INP (300ms Delay)</button>
     <button id="bad">❌ Bad INP (2s Blocking Task)</button>
   </div>
 
@@ -39,10 +38,6 @@ function logResponse(label, delay, block = false) {
 
 document.getElementById('good').addEventListener('click', () => {
   logResponse('✅ Good INP', 0);
-});
-
-document.getElementById('medium').addEventListener('click', () => {
-  logResponse('🟡 Medium INP', 300);
 });
 
 document.getElementById('bad').addEventListener('click', () => {
